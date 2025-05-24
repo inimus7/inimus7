@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @inimus7
 - 👀 I’m interested in computer technology, coding, solving problems and enjoying life.
-- 🌱 I’m currently learning how to accept that sometimes a vertern developer needs simple refreshers too.
 - 💞️ I’m here to find new stuff and learn a thing or three.
 <!---
 inimus7/inimus7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
